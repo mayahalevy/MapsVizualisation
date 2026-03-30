@@ -1,3 +1,3 @@
 # MapsVizualisation
 
-Vizualisation of different map types in python. 
+Vizualisation of KAZA region in southern africa. layout of different conservation projects.
